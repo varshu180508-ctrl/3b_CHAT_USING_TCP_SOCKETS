@@ -35,9 +35,13 @@ while True:
     
 ## OUPUT
 
+CLIENT
 
-<img width="779" height="104" alt="cn 3 b" src="https://github.com/user-attachments/assets/2489f1ea-8b0e-4420-8e30-4e0257da33af" />
+<img width="1920" height="1056" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/0a50e44f-d68d-4487-a37e-1d88bb6f44aa" />
 
+SERVER
+
+<img width="1920" height="829" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/31a3e925-7c54-4204-93ef-88ae2acc901d" />
 
 ##RESULT
 
